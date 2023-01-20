@@ -1,0 +1,22 @@
+.about {
+  display: flex;
+  font-size: 1vw;
+}
+.titl {
+  text-align: center;
+}
+.stag, .obrazov {
+    width: 30vw;
+    margin-left: 3vw;
+}
+.perk {
+    width: 10vw; 
+    margin-left: 3vw;
+}
+.portret {
+  width: 15vw;
+  border-radius: 20%;
+}
+.HTML {
+    margin-left: 1vw;
+}

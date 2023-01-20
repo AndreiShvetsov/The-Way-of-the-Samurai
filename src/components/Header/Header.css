@@ -1,0 +1,23 @@
+@font-face {
+  font-family: imported;
+  src: url(../Fonts/Comfortaa-VariableFont_wght.ttf);
+}
+.header {
+  display: flex;
+  grid-area: Header;
+  font-family: 'Comfortaa', cursive;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5vw;
+}
+
+img {
+  display: flex;
+  width: 1.5vw;
+  margin-left: 1.5vw;
+  justify-content: center;
+  align-items: center;
+}
+span {
+  margin-left: 1.5vw;
+}

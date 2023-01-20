@@ -1,0 +1,12 @@
+.menubar {
+  display: flex;
+  grid-area: MenuBar;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 1vw;
+}
+a.active {
+  color: gold;
+}

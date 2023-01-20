@@ -1,0 +1,10 @@
+.footer {
+  grid-area: Footer;
+  text-align: center;
+  font-size: 1vw;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+}

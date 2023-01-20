@@ -1,0 +1,23 @@
+.star {
+    width: 1px;
+    height: 1px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    animation-name: stars;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+  }
+  @keyframes stars {
+    0% {
+      left: 50%;
+      top: 50%;
+    }
+    100% {
+      width: 2px;
+      height: 10px;
+      left: 70%;
+      top: 95%;
+    }
+  }

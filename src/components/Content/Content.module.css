@@ -1,0 +1,7 @@
+.contentt {
+  grid-area: Contentt;
+}
+.portret {
+    width: 10%;
+    border-radius: 20%;
+  }
